@@ -264,7 +264,7 @@ window.tripdocsData = [
                 ],
                 "type": "code-block",
                 "data-codeblock-id": "4bac3f25-fa79-4203-ac9c-b65771066e1b",
-                "data-card-value": "%7B%22data%22%3A%20%7B%20%22mode%22%3A%20%22javascript%22%2C%20%22code%22%3A%20%22%2520%2520%253Clink%2520href%253D%257B'https%253A%252F%252Fcdn.jsdelivr.net%252Fgh%252Fctripcorp%252Ftripdocs%25401.0.0%252Fpublic%252Fcdn%252Fvendor.css'%257D%2520rel%253D%2522stylesheet%2522%253E%253C%252Flink%253E%250A%2520%2520%253Clink%2520href%253D%257B'https%253A%252F%252Fcdn.jsdelivr.net%252Fgh%252Fctripcorp%252Ftripdocs%25401.0.0%252Fpublic%252Fcdn%252Findex.css'%257D%2520rel%253D%2522stylesheet%2522%253E%253C%252Flink%253E%250A%2520%2520%253Cscript%2520src%253D%257B'https%253A%252F%252Fcdn.jsdelivr.net%252Fgh%252Fctripcorp%252Ftripdocs%25401.0.0%252Fpublic%252Fcdn%252Fvendor.js'%257D%253E%253C%252Fscript%253E%250A%2520%2520%253Cscript%2520src%253D%257B'https%253A%252F%252Fcdn.jsdelivr.net%252Fgh%252Fctripcorp%252Ftripdocs%25401.0.0%252Fpublic%252Fcdn%252Findex.js'%257D%253E%253C%252Fscript%253E%22%2C%20%22id%22%3A%20%224bac3f25-fa79-4203-ac9c-b65771066e1b%22%20%7D%7D"
+                "data-card-value": "%7B%22data%22%3A%20%7B%20%22mode%22%3A%20%22javascript%22%2C%20%22code%22%3A%20%22%2520%2520%253Clink%2520href%253D%257B'https%253A%252F%252Fcdn.jsdelivr.net%252Fgh%252Fctripcorp%252Ftripdocs%252Fpublic%252Fpages%252Fvendor.css'%257D%2520rel%253D%2522stylesheet%2522%253E%253C%252Flink%253E%250A%2520%2520%253Clink%2520href%253D%257B'https%253A%252F%252Fcdn.jsdelivr.net%252Fgh%252Fctripcorp%252Ftripdocs%252Fpublic%252Fpages%252Findex.css'%257D%2520rel%253D%2522stylesheet%2522%253E%253C%252Flink%253E%250A%2520%2520%253Cscript%2520src%253D%257B'https%253A%252F%252Fcdn.jsdelivr.net%252Fgh%252Fctripcorp%252Ftripdocs%252Fpublic%252Fpages%252Fvendor.js'%257D%253E%253C%252Fscript%253E%250A%2520%2520%253Cscript%2520src%253D%257B'https%253A%252F%252Fcdn.jsdelivr.net%252Fgh%252Fctripcorp%252Ftripdocs%252Fpublic%252Fpages%252Findex.js'%257D%253E%253C%252Fscript%253E%22%2C%20%22id%22%3A%20%224bac3f25-fa79-4203-ac9c-b65771066e1b%22%20%7D%7D"
             },
             {
                 "children": [
@@ -314,7 +314,7 @@ window.tripdocsData = [
                 ],
                 "type": "code-block",
                 "data-codeblock-id": "41d12b97-7a3a-4229-99bb-098cda7c8835",
-                "data-card-value": "%7B%22data%22%3A%20%7B%20%22mode%22%3A%20%22javascript%22%2C%20%22code%22%3A%20%22npm%2520install%2520%2540ctrip%252Ftripdocs-js-sdk%2520%22%2C%20%22id%22%3A%20%2241d12b97-7a3a-4229-99bb-098cda7c8835%22%20%7D%7D"
+                "data-card-value": "%7B%22data%22%3A%20%7B%20%22mode%22%3A%20%22javascript%22%2C%20%22code%22%3A%20%22npm%2520install%2520tripdocs%22%2C%20%22id%22%3A%20%2241d12b97-7a3a-4229-99bb-098cda7c8835%22%20%7D%7D"
             },
             {
                 "children": [
@@ -355,7 +355,7 @@ window.tripdocsData = [
                 ],
                 "type": "code-block",
                 "data-codeblock-id": "81073ec3-fe8f-4319-beab-18775645fe5a",
-                "data-card-value": "%7B%22data%22%3A%20%7B%20%22mode%22%3A%20%22javascript%22%2C%20%22code%22%3A%20%22import%2520'%2540ctrip%252Ftripdocs-js-sdk%252Flib%252Findex'%253B%250Aimport%2520'%2540ctrip%252Ftripdocs-js-sdk%252Flib%252Findex.css'%253B%22%2C%20%22id%22%3A%20%2281073ec3-fe8f-4319-beab-18775645fe5a%22%20%7D%7D"
+                "data-card-value": "%7B%22data%22%3A%20%7B%20%22mode%22%3A%20%22javascript%22%2C%20%22code%22%3A%20%22import%2520'tripdocs%252Flib%252Findex'%253B%250Aimport%2520'tripdocs%252Flib%252Findex.css'%253B%2520%22%2C%20%22id%22%3A%20%2281073ec3-fe8f-4319-beab-18775645fe5a%22%20%7D%7D"
             },
             {
                 "children": [
